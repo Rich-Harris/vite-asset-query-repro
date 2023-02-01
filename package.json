@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"dependencies": {
+		"vite": "^4.0.4"
+	},
+	"scripts": {
+		"test": "vite build && node dist"
+	}
+}
