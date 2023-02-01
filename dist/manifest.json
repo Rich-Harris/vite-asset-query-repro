@@ -1,0 +1,14 @@
+{
+  "src/styles.css": {
+    "file": "assets/styles-88aad864.css",
+    "src": "src/styles.css"
+  },
+  "src/index.js": {
+    "file": "index.js",
+    "src": "src/index.js",
+    "isEntry": true,
+    "assets": [
+      "assets/styles-88aad864.css"
+    ]
+  }
+}
